@@ -1,0 +1,42 @@
+{
+    "development": {
+        "vscode": {
+            "title": "Visual Studio Code",
+            "logopath": "logos/vscode.png",
+            "description": "",
+            "url": ""
+        },
+        "brackets": {
+            "title": "Brackets",
+            "logopath": "logos/brackets.jpg",
+            "description": "",
+            "url": ""
+        },
+        "codepen": {
+            "title": "Codepen",
+            "logopath": "logos/codepen.png",
+            "description": "",
+            "url": ""
+        }
+    },
+    "html": {
+        "vscode": {
+            "title": "Visual Studio Code",
+            "logopath": "logos/react.png",
+            "description": "",
+            "url": ""
+        },
+        "brackets": {
+            "title": "Brackets",
+            "logopath": "logos/bootstrap.png",
+            "description": "",
+            "url": ""
+        },
+        "codepen": {
+            "title": "Codepen",
+            "logopath": "logos/vscode.png",
+            "description": "",
+            "url": ""
+        }
+    }
+}

@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    box-sizing: border-box;
+}
+
+section{
+    padding: 4rem 0; 
+}
+
+section:nth-child(odd) {
+    background-color: rgb(246, 250, 252);
+}
+
+.section-header{
+    margin-left: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+    font-weight: 400;
+}
+
+.section-icon{
+    color: rgba(123, 145, 243, 0.76);
+    margin-right: 10px;
+}
+
+.resource-heading{
+    margin-top: 10px;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.resource-link:hover{
+    text-decoration: none;
+}
+
+.resource-link:active,
+.resource-link:visited{
+    text-decoration: none;
+}
+
+.resource-logo{
+    height: 40px;
+}
